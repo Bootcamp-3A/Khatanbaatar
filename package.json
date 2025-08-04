@@ -12,5 +12,13 @@
   "dependencies": {
     "console-log-colors": "^0.5.0",
     "moo-color": "^1.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bootcamp-3A/Khatanbaatar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bootcamp-3A/Khatanbaatar/issues"
+  },
+  "homepage": "https://github.com/Bootcamp-3A/Khatanbaatar#readme"
 }
